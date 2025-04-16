@@ -2,10 +2,10 @@ package main
 
 func main() {
 	todos := Todos{}
-	todos.add("Buy Milk")
-	todos.add("Buy Bread")
+	todos.Add("Buy Milk")
+	todos.Add("Buy Bread")
 
-	todos.toggle(0)
+	todos.Toggle(0)
 
-	todos.print()
+	todos.Print()
 }
