@@ -1,4 +1,4 @@
-module github.com/istiaq-fuad/todo
+module github.com/istiaq-fuad/togo
 
 go 1.23.6
 
